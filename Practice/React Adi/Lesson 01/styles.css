@@ -1,0 +1,10 @@
+.sidebar {
+    width: 10%;
+    height: 100%;
+    border: 1px solid black;
+}
+.topbar {
+    width: 90%;
+    height: 10%;
+    border: 1px solid blue;
+}
